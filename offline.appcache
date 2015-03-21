@@ -2,11 +2,9 @@ CACHE MANIFEST
 #15.3.21 13:13
 CACHE:
 img/me.jpg
-#js/index.js
+js/index.js
 img/wo4.jpg
 img/wa2.jpg
 img/wo12.jpg
 css/esi.woff
 css/SUS613.ttf
-NETWORK:
-*
