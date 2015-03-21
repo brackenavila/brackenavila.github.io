@@ -18,10 +18,10 @@ i={
   for(l in i.中)b[l].onclick=F('v','师.className="'+i.中[l]+'"')
   i.sty(i.s)
   onresize=i.set
-  onkeydown=F('e','/3|4/.test(e.which)&&e.preventDefault()')
-  scroll(0,0)
+  onkeydown=F('e','/3|4/.test(e.which)&&e.preventDefault(),scroll(0,0)')
   setTimeout(F('v',
    'i.sty("@font-face{font-family:esi;src:url(css/esi.woff)}@font-face{font-family:SUS613;src:url(css/SUS613.ttf)"),'+
+   'scroll(0,0),'+
    'i.d.scripts[0].remove(),'+
    'console.clear()'),1e3)}}
 onload=i.init
